@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Timbangan</string>
+    <string name="weight">weight</string>
+    <string name="height">height</string>
+    <string name="calculateBMI">bmi</string>
+    <string name="very_severely_underweight">kuruss sanat</string>
+    <string name="severely_underweight">kurus</string>
+    <string name="underweight">normal</string>
+    <string name="normal">normal</string>
+    <string name="overweight">overwe</string>
+    <string name="obese_class_i">obess</string>
+    <string name="obese_class_ii">obess2</string>
+    <string name="obese_class_iii">obes33</string>
+</resources>
